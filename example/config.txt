@@ -1,0 +1,2 @@
+Prefix plugins/PValue/example/
+Plugin PValue inputfile parameters.pvalue.txt outputfile pvalue.csv

@@ -1,0 +1,4 @@
+testfile	averagedistance.csv
+permutedir	permutations
+numperms	999
+permutefile	averagedistance.csv
